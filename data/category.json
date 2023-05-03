@@ -1,0 +1,32 @@
+[
+      {
+        "id": 1,
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/elementor/thumbs/appetizer-bruschetta-with-tuna-and-tomatoes-LKA5ZYU-omrs5yczemz943vxo1dqw9tztvscarh3mzggf5azkw.jpg",
+        "title": "Appetizers"
+      },
+      
+      {
+        "id": 2,
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/elementor/thumbs/beef-steak-tomahawk-S3JHQLN-omrts6h2r6ooajb7o7fsckvwj4sv3smiz698m6z25c.jpg",
+        "title": "Beef"
+      },
+      
+      {
+        "id": 3,
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/elementor/thumbs/baked-chicken-breast-9C4F43W-omrrd2rhfvg4fdu0ak0dak66tq4dtitz01xfn44eqo.jpg",
+        "title": "Chicken"
+      },
+      
+      {
+        "id": 4,
+        "img": "https://149410494.v2.pressablecdn.com/wp-content/uploads/elementor/thumbs/cooked-vegetables-according-to-chinese-recipe-PN2GKUB-omrff2jgxcsv5cfw86lk4kjvmzkfiaqk7pxv13p38g.jpg",
+        "title": "Vegetarian"
+      },
+      
+      {
+        "id": 5,
+        "img": "https://example.com/image5.jpg",
+        "title": "Desserts"
+      }
+      
+]
