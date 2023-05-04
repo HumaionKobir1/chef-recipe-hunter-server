@@ -1,93 +1,146 @@
 [
     {
-      "id": 1,
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "1",
       "name": "Grilled Salmon",
       "ingredients": "salmon fillets, olive oil, lemon juice, garlic, salt, black pepper",
-      "instructions": "Preheat the grill to medium-high heat, Mix olive oil, lemon juice, garlic, salt, and black pepper in a bowl, Brush the mixture onto the salmon fillets, Grill the salmon for 5-7 minutes on each side, Serve hot with a side of vegetables"
+      "instructions": "Preheat the grill to medium-high heat, Mix olive oil, lemon juice, garlic, salt, and black pepper in a bowl, Brush the mixture onto the salmon fillets, Grill the salmon for 5-7 minutes on each side, Serve hot with a side of vegetables",
+      "rating": { "number": 5, "badge": "Excellent" }
     },
     {
-      "id": 2,
+        "id": "0282e0e58a5c404fbd15261f11c2ab7a",
+      "category_id": "2",
       "name": "Fish Tacos",
       "ingredients": "tilapia fillets, taco shells, cabbage, sour cream, lime, cilantro, spices",
-      "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot"
+      "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot",
+      "rating": { "number": 4.5, "badge": "Excellent" }
     },
     {
-      "id": 3,
+        "id": "0282e0e58a5c404fbd15261f11c2ab8a",
+      "category_id": "3",
       "name": "Fish Tacos",
       "ingredients": "tilapia fillets, taco shells, cabbage, sour cream, lime, cilantro, spices",
-      "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot"
+      "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot",
+      "rating": { "number": 3.5, "badge": "Excellent" }
     },
     {
-        "id": 1,
+        "id": "0282e0e58a5c404fbd15261f11c2ab9a",
+        "category_id": "4",
         "name": "Vegetable Curry",
         "ingredients": "assorted vegetables, onions, garlic, ginger, spices, coconut milk, tomatoes, cilantro",
-        "instructions": "Chop assorted vegetables into bite-sized pieces, Saute onions, garlic, and ginger in a pan, Add spices and cook for a minute, Add chopped vegetables, coconut milk, and tomatoes, Simmer until vegetables are cooked through, Garnish with cilantro and serve hot with rice or bread"
+        "instructions": "Chop assorted vegetables into bite-sized pieces, Saute onions, garlic, and ginger in a pan, Add spices and cook for a minute, Add chopped vegetables, coconut milk, and tomatoes, Simmer until vegetables are cooked through, Garnish with cilantro and serve hot with rice or bread",
+        "rating": { "number": 4.5, "badge": "Excellent" }
       },
       {
-        "id": 2,
+        "id": "0282e0e58a5c404fbd15261f11c2ab10a",
+        "category_id": "5",
         "name": "Roasted Cauliflower",
         "ingredients": "cauliflower, olive oil, spices, lemon juice, parmesan cheese",
-        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot"
+        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot",
+        "rating": { "number": 3.5, "badge": "Excellent" }
       },
       {
-        "id": 3,
+        "id": "0282e0e58a5c404fbd15261f11c2ab11a",
+        "category_id": "6",
         "name": "Roasted Cauliflower",
         "ingredients": "cauliflower, olive oil, spices, lemon juice, parmesan cheese",
-        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot"
+        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot",
+        "rating": { "number": 4.5, "badge": "Excellent" }
       },
       {
-        "id": 1,
+        "id": "0282e0e58a5c404fbd15261f11c2ab12a",
+        "category_id": "1",
         "name": "Butter Chicken",
         "ingredients": "chicken, yogurt, spices, tomatoes, cream, butter",
-        "instructions": "Marinate chicken in yogurt and spices for at least an hour, Grill or bake the chicken until cooked through, Saute onions and spices in butter, Add chopped tomatoes and cook until soft, Add cream and cooked chicken, Simmer until the sauce thickens and chicken is coated with the sauce, Serve hot with rice or naan"
+        "instructions": "Marinate chicken in yogurt and spices for at least an hour, Grill or bake the chicken until cooked through, Saute onions and spices in butter, Add chopped tomatoes and cook until soft, Add cream and cooked chicken, Simmer until the sauce thickens and chicken is coated with the sauce, Serve hot with rice or naan",
+        "rating": { "number": 3, "badge": "Excellent" }
       },
       {
-        "id": 2,
+        "id": "0282e0e58a5c404fbd15261f11c2ab13a",
+        "category_id": "2",
         "name": "Vegetable Biryani",
         "ingredients": "rice, assorted vegetables, spices, yogurt, raisins, cashews",
-        "instructions": "Cook rice in a pot with spices and yogurt, Saute assorted vegetables in a pan, Layer the cooked rice and vegetables in a pot, Add raisins and cashews, Cover and cook until the rice is tender and the vegetables are cooked through, Serve hot with raita"
+        "instructions": "Cook rice in a pot with spices and yogurt, Saute assorted vegetables in a pan, Layer the cooked rice and vegetables in a pot, Add raisins and cashews, Cover and cook until the rice is tender and the vegetables are cooked through, Serve hot with raita",
+        "rating": { "number": 4.5, "badge": "Excellent" }
       },
       {
-        "id": 3,
+        "id": "0282e0e58a5c404fbd15261f11c2ab14a",
+        "category_id": "3",
         "name": "Roasted Cauliflower",
         "ingredients": "rice, assorted vegetables, spices, yogurt, raisins, cashews",
-        "instructions": "Cook rice in a pot with spices and yogurt, Saute assorted vegetables in a pan, Layer the cooked rice and vegetables in a pot, Add raisins and cashews, Cover and cook until the rice is tender and the vegetables are cooked through, Serve hot with raita"
+        "instructions": "Cook rice in a pot with spices and yogurt, Saute assorted vegetables in a pan, Layer the cooked rice and vegetables in a pot, Add raisins and cashews, Cover and cook until the rice is tender and the vegetables are cooked through, Serve hot with raita",
+        "rating": { "number": 4, "badge": "Excellent" }
       },
       {
-        "id": 1,
+        "id": "0282e0e58a5c404fbd15261f11c2ab15a",
+        "category_id": "4",
         "name": "Grilled Salmon",
         "ingredients": "salmon fillets, olive oil, lemon juice, garlic, salt, black pepper",
-        "instructions": "Preheat the grill to medium-high heat, Mix olive oil, lemon juice, garlic, salt, and black pepper in a bowl, Brush the mixture onto the salmon fillets, Grill the salmon for 5-7 minutes on each side, Serve hot with a side of vegetables"
+        "instructions": "Preheat the grill to medium-high heat, Mix olive oil, lemon juice, garlic, salt, and black pepper in a bowl, Brush the mixture onto the salmon fillets, Grill the salmon for 5-7 minutes on each side, Serve hot with a side of vegetables",
+        "rating": { "number": 5, "badge": "Excellent" }
       },
       {
-        "id": 2,
+        "id": "0282e0e58a5c404fbd15261f11c2ab16a",
+        "category_id": "5",
         "name": "Roasted Cauliflower",
         "ingredients": "tilapia fillets, taco shells, cabbage, sour cream, lime, cilantro, spices",
-        "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot"
+        "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot",
+        "rating": { "number": 4.5, "badge": "Excellent" }
       },
       {
-        "id": 3,
+        "id": "0282e0e58a5c404fbd15261f11c2ab17a",
+        "category_id": "6",
         "name": "Fish Tacos",
         "ingredients": "tilapia fillets, taco shells, cabbage, sour cream, lime, cilantro, spices",
-        "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot"
+        "instructions": "Season tilapia fillets with spices and grill until cooked through, Warm taco shells in the oven, Shred cabbage and mix with lime juice and cilantro, Fill each taco shell with grilled tilapia, cabbage slaw, and a dollop of sour cream, Serve hot",
+        "rating": { "number": 3, "badge": "Excellent" }
       },
       {
-        "id": 1,
+        "id": "0282e0e58a5c404fbd15261f11c2ab18a",
+        "category_id": "1",
         "name": "Vegetable Curry",
         "ingredients": "assorted vegetables, onions, garlic, ginger, spices, coconut milk, tomatoes, cilantro",
-        "instructions": "Chop assorted vegetables into bite-sized pieces, Saute onions, garlic, and ginger in a pan, Add spices and cook for a minute, Add chopped vegetables, coconut milk, and tomatoes, Simmer until vegetables are cooked through, Garnish with cilantro and serve hot with rice or bread"
+        "instructions": "Chop assorted vegetables into bite-sized pieces, Saute onions, garlic, and ginger in a pan, Add spices and cook for a minute, Add chopped vegetables, coconut milk, and tomatoes, Simmer until vegetables are cooked through, Garnish with cilantro and serve hot with rice or bread",
+        "rating": { "number": 4.5, "badge": "Excellent" }
       },
       {
-        "id": 2,
+        "id": "0282e0e58a5c404fbd15261f11c2ab19a",
+        "category_id": "2",
         "name": "Roasted Cauliflower",
         "ingredients": "cauliflower, olive oil, spices, lemon juice, parmesan cheese",
-        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot"
+        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot",
+        "rating": { "number": 5, "badge": "Excellent" }
       },
       {
-        "id": 3,
+        "id": "0282e0e58a5c404fbd15261f11c2ab19a",
+        "category_id": "3",
         "name": "Roasted Cauliflower",
         "ingredients": "cauliflower, olive oil, spices, lemon juice, parmesan cheese",
-        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot"
+        "instructions": "Preheat the oven to 400 degrees F, Cut cauliflower into florets, Toss the florets with olive oil, spices, and lemon juice, Spread the florets in a single layer on a baking sheet, Roast for 20-25 minutes until tender and golden brown, Sprinkle with parmesan cheese and serve hot",
+        "rating": { "number": 4.5, "badge": "Excellent" }
       },
-      
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab20a",
+        "category_id": "4",
+        "name": "Butter Chicken",
+        "ingredients": "chicken, yogurt, spices, tomatoes, cream, butter",
+        "instructions": "Marinate chicken in yogurt and spices for at least an hour, Grill or bake the chicken until cooked through, Saute onions and spices in butter, Add chopped tomatoes and cook until soft, Add cream and cooked chicken, Simmer until the sauce thickens and chicken is coated with the sauce, Serve hot with rice or naan",
+        "rating": { "number": 5, "badge": "Excellent" }
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab21a",
+        "category_id": "5",
+        "name": "Vegetable Biryani",
+        "ingredients": "rice, assorted vegetables, spices, yogurt, raisins, cashews",
+        "instructions": "Cook rice in a pot with spices and yogurt, Saute assorted vegetables in a pan, Layer the cooked rice and vegetables in a pot, Add raisins and cashews, Cover and cook until the rice is tender and the vegetables are cooked through, Serve hot with raita",
+        "rating": { "number": 4.5, "badge": "Excellent" }
+      },
+      {
+        "id": "0282e0e58a5c404fbd15261f11c2ab22a",
+        "category_id": "6",
+        "name": "Vegetable Biryani",
+        "ingredients": "rice, assorted vegetables, spices, yogurt, raisins, cashews",
+        "instructions": "Cook rice in a pot with spices and yogurt, Saute assorted vegetables in a pan, Layer the cooked rice and vegetables in a pot, Add raisins and cashews, Cover and cook until the rice is tender and the vegetables are cooked through, Serve hot with raita",
+        "rating": { "number": 3.5, "badge": "Excellent" }
+      }
 ]
