@@ -1,8 +1,8 @@
  [
       {
         "id": 1,
-        "name": "Chef A",
-        "picture": "https://example.com/chefA.jpg",
+        "name": "Chef Kabir",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
         "specialty": "Seafood",
         "bio": "Chef A is a seafood specialist who loves experimenting with different types of seafood. With over 10 years of experience in cooking seafood, Chef A is known for his/her unique and flavorful dishes that are loved by seafood enthusiasts.",
         "likes": 1200,
@@ -31,8 +31,8 @@
       },
       {
         "id": 2,
-        "name": "Chef B",
-        "picture": "https://example.com/chefB.jpg",
+        "name": "Chef Nahid",
+        "picture": "https://d1oh9y2nmj4y5b.cloudfront.net/uploads/photo/filename/574/7_Nahid_foodResizedForWeb.jpg",
         "specialty": "Vegetarian",
         "bio": "Chef B is a vegetarian chef who loves creating delicious and nutritious vegetarian dishes. With over 8 years of experience in vegetarian cooking, Chef B is known for his/her innovative and flavorful dishes that are loved by vegetarians and non-vegetarians alike.",
         "likes": 1500,
@@ -61,8 +61,8 @@
       },
       {
         "id": 3,
-        "name": "Chef C",
-        "picture": "https://example.com/chefC.jpg",
+        "name": "Chef Saif Hasan",
+        "picture": "https://media.licdn.com/dms/image/D5603AQEP1NGaBLMAew/profile-displayphoto-shrink_800_800/0/1665861249872?e=2147483647&v=beta&t=IN8jIpTW1BnhSCWhc4m9zKll5TKZe3GEz9r8xQLdZz0",
         "specialty": "Indian",
         "bio": "Chef C is an Indian chef who loves creating authentic and delicious Indian dishes. With over 12 years of experience in Indian cooking, Chef C is known for his/her use of traditional Indian spices and techniques to create flavorful and aromatic dishes that transport you to India.",
         "likes": 2000,
@@ -91,8 +91,8 @@
       },
       {
         "id": 4,
-        "name": "Chef D",
-        "picture": "https://example.com/chefD.jpg",
+        "name": "Chef Kishwar Chowdhury",
+        "picture": "https://images.indulgexpress.com/uploads/user/imagelibrary/2022/10/9/original/MasterchefAustralia2021finalistKishwarChowdhury.jpg?w=576&dpr=1.3",
         "specialty": "Italian",
         "bio": "Chef D is an Italian chef who loves creating authentic and delicious Italian dishes. With over 15 years of experience in Italian cooking, Chef D is known for his/her use of fresh ingredients and traditional Italian techniques to create mouth-watering dishes that transport you to Italy.",
         "likes": 2500,
@@ -121,8 +121,8 @@
       },
       {
         "id": 5,
-        "name": "Chef E",
-        "picture": "https://example.com/chefE.jpg",
+        "name": "Chef Tony",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg",
         "specialty": "Chinese",
         "bio": "Chef E is a Chinese chef who specializes in creating delicious and authentic Chinese dishes. With over 10 years of experience in Chinese cooking, Chef E is known for his/her mastery of Chinese cooking techniques and use of fresh ingredients to create flavorful dishes that are both healthy and satisfying.",
         "likes": 1800,
@@ -151,8 +151,8 @@
         },
         {
         "id": 6,
-        "name": "Sumaiya chowdhury",
-        "picture": "https://example.com/chefF.jpg",
+        "name": "Shelly Nuruzzaman",
+        "picture": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/03/18/shelly-nuruzzaman-credit-bang-curry.jpg?width=1200",
         "specialty": "Thai",
         "bio": "Chef F is a Thai chef who specializes in creating delicious and authentic Thai dishes. With over 8 years of experience in Thai cooking, Chef F is known for his/her use of fresh ingredients and unique blend of sweet, sour, and spicy flavors to create dishes that are both bold and refreshing.",
         "likes": 1500,
